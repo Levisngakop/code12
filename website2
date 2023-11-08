@@ -1,0 +1,50 @@
+    html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Telephone Business Shop</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#prices">Prices</a></li>
+        <li><a href="#delivery">Delivery</a></li>
+        <li><a href="seller-login.html">Seller Login</a></li>
+        <li><a href="user-login.html">User Login</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h1>Welcome to Telephone Business Shop</h1>
+    <p>Find the perfect telephone for your needs.</p>
+  </section>
+
+  <section id="prices">
+    <h2>Prices</h2>
+    <ul>
+      <li>Model A: $199</li>
+      <li>Model B: $299</li>
+      <li>Model C: $399</li>
+      <!-- Add more models and prices as needed -->
+    </ul>
+  </section>
+
+  <section id="delivery">
+    <h2>Delivery</h2>
+    <p>We offer free delivery within the city limits. For delivery outside the city, there may be additional charges based on the distance.</p>
+    <p>Please contact our customer support for more information regarding delivery options.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 20XX Telephone Business Shop. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
